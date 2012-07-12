@@ -28,7 +28,7 @@ use in games) can implement things like object pooling easily (and thus making i
 
 # Using
 
-## gamceore.Class
+## gamecore.Class
 A modified version of class.js to cater to static inheritance and deep object cloning.
 Based almost completely on class.js (Javascript MVC -- Justin Meyer, Brian Moschel, Michael Mayer and others)
 (http://javascriptmvc.com/contribute.html).
